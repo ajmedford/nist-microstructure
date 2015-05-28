@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Post Headline
-date:       2015-01-01 12:00:00
-author:     Materials Innovation
+title:      Meeting Notes - May 26, 2015
+date:       2015-05-26 12:00:00
+author:     A.J. Medford
 ---
 <!-- Start Writing Below in Markdown -->
 
