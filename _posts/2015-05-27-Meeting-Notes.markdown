@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Meeting Notes - May 26, 2015
+title:      Meeting Notes - May 27, 2015
 date:       2015-05-27 12:00:00
 author:     A.J. Medford
 ---
