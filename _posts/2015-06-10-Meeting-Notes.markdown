@@ -14,8 +14,8 @@ author:     A.J. Medford
 
 * Josh, David, AJ, Zhen: Identify new directions
     * MKS for electronic structure
-        * [*View Slides*](https://github.com/mined-gatech/nist-microstructure/blob/gh-pages/img/MKS_electronic_structure.pdf)
-        * [*A basic "derivation" of DFT from my thesis*](https://github.com/mined-gatech/nist-microstructure/blob/gh-pages/img/DFT_basics.pdf). The thesis is still a draft, so if you see any typos or have suggestions let me know.
+        * [*View Slides*](https://github.com/mined-gatech/nist-microstructure/blob/gh-pages/img/MKS_electronic_structure.pdf?raw=true)
+        * [*A basic "derivation" of DFT from my thesis*](https://github.com/mined-gatech/nist-microstructure/blob/gh-pages/img/DFT_basics.pdf?raw=true). The thesis is still a draft, so if you see any typos or have suggestions let me know.
         * [*More information on the math of DFT (especially lecture 5)*](http://www.physics.metu.edu.tr/~hande/teaching/741.html)
         * "Green's functions" are often used in many-body quantum mechanics.  This is not my expertise, but I would like to learn more. Some info (that I haven't thoroughly read yet):
             * [*Wikipedia*](http://en.wikipedia.org/wiki/Green%27s_function_%28many-body_theory%29)
