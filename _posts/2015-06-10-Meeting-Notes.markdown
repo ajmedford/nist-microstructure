@@ -26,6 +26,8 @@ author:     A.J. Medford
     * Download, install, and test new pyMKS version
     * Read existing manuscripts
 
+* Fred: Look into Slack account, possibility of integrating with MatIN
+
 **Other Notes**
 
 * For those trying to learn python, these resources might be helpful:
