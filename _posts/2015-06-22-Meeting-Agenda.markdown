@@ -10,10 +10,10 @@ author:     A.J. Medford
 
 **Agenda**
 
-* AJ : Surya
+* AJ + Surya
     * Meeting structure
 
-* AJ : Surya
+* AJ + Surya
     * Electronic structure representation
 
 Please suggest any additional points in the comments
