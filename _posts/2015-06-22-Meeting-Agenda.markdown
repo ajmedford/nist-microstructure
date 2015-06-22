@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Meeting Agenda/Notes - June 24, 2015
-date:       2015-22-10 12:00:00
+date:       2015-22-10 12:30:00
 author:     A.J. Medford
 ---
 <!-- Start Writing Below in Markdown -->
