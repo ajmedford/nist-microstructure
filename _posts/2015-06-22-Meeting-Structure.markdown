@@ -16,8 +16,7 @@ some ideas. Any input is of course welcome, and I am sure the system will evolve
 * Have a loose agenda for each meeting to try to keep everything on track. 
 I will start posting a preliminary agenda on MatIN 1-2 days ahead of time, and will revise it a few 
 minutes before the meeting to reflect any comments. Naturally we can let the agenda change or deviate
-from it as
-the meeting goes on.
+from it as the meeting goes on.
 
 * We can experiment with using the chat feature in conjunction with speaking, particularly during 
 presentations or long discussions. This gives a polite way to interrupt a speaker if you would like 
