@@ -1,13 +1,13 @@
 # Site settings
-# Update all variables under site settings.
-title: NIST Microstructure Project # Update the name of your project
-header-img: img/home-bg.jpg # Add a photo related to your project
-email: ajmedfor@gmail.com #Update your email address
-description: "Applying materials informatics to understand microstructure." # Update description of your project
-baseurl: "/nist-microstructure" # Update to "/<name of your repository>"
-url: "http://ajmedford.github.io" # Update to "http://<github username>.github.io"
-github_username:  ajmedford # Update to your <github_username>
-project_repository: nist-microstructure # Update to your <repository name>
+
+title: Project Pages
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: "/project-pages"
+url: "http://matin-hub.github.io"
+github_username:  matin-hub
+project_repository: project-pages
 
 # Build settings
 # Don't change these variables
