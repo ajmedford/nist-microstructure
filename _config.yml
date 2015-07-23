@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg # Add a photo related to your project
 email: ajmedfor@gmail.com #Update your email address
 description: "Applying materials informatics to understand microstructure." # Update description of your project
 baseurl: "/nist-microstructure" # Update to "/<name of your repository>"
-url: "http://ajmedford.github.io" # Update to "http://<github username>.github.io"
+url: "http://mined-gatech.github.io" # Update to "http://<github username>.github.io"
 github_username:  ajmedford # Update to your <github_username>
 project_repository: nist-microstructure # Update to your <repository name>
 
